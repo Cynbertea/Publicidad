@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: x-large;
+}
+header{
+    padding: 20px;
+    background-color: black;
+    
+}
+footer{
+   padding: 40px;
+   background-color: black;
+}
+
+section{
+    padding: 80px;
+    background-color: cornflowerblue;
+}
+
+.rectanguloblanco{
+    padding: 50px;
+    background-color: cornsilk;
+    display: flex;
+    
+    
+}
+
+.individual{
+    text-align: center;
+    color: darkcyan;
+    font-family: 'Itim', cursive;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 30%;
+    align-items:center;
+    
+}
+
+p{
+    font-size: smaller;
+    margin-bottom: 30px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+sup{
+    font-size: 15px;
+}
+
+.numero{
+    font-size: 40px;
+}
+
+
+img{
+    width: 60px;
+    height: 60px;
+    margin-bottom: 30px;
+}
+
+h2{
+    margin-bottom: 30px;
+}
